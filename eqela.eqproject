@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thursdaymonster
+#
+
+projectname: thursdaymonster
+vendorid: com.thursdaymonster
+mainmodule: com.thursdaymonster.thursdaymonster
